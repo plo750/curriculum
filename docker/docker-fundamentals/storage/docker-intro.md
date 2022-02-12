@@ -48,7 +48,7 @@ From the container's perspective, it doesn't matter which type of storage we use
 
 ## Practice
 
-When a Docker container is destroyed, all of its data is still available.
+When a Docker container is destroyed with no volume, all of its data is still available.
 
 ???
 
